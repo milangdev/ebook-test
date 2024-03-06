@@ -1,0 +1,20 @@
+# dependencies
+frontend/node_modules
+backend/node_modules
+frontend/.pnp
+frontend/.pnp.js
+# testing
+frontend/coverage
+# production
+frontend//build
+# misc
+frontend/.DS_Store
+frontend/npm-debug.log*
+
+# Ignore bundler config.
+backend/.bundle
+# Ignore all logfiles and tempfiles.
+backend/log/*
+backend/tmp/*
+backend!/log/.keep
+backend!/tmp/.keep
